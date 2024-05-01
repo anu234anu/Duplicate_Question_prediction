@@ -1,5 +1,7 @@
 Statement -  Duplicate Question Detection
 
+Dataset link : https://www.kaggle.com/datasets/thedevastator/quora-duplicate-questions-detection
+
  Tools Used:
 - Google Colab
 - Beautiful Soup
